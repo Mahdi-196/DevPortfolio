@@ -22,7 +22,7 @@ const projectData = [
     name: "SQL Company Tracker",
     description: "A company-wide employee, department, and role tracker built with PostgreSQL.",
     image: sqlTracker, 
-    deployedLink: "https://drive.google.com/file/d/14pvcHjVu_9b1VFTx_AvVzi2dCVpnv_fz/view",
+    deployedLink: "https://github.com/Mahdi070707/sql-company-tracker",
     repoLink: "https://drive.google.com/file/d/14pvcHjVu_9b1VFTx_AvVzi2dCVpnv_fz/view",
   },  
   // "Coming Soon" Projects
