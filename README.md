@@ -44,8 +44,11 @@ You can manually test the portfolio by running it locally and checking for UI re
 ## 📩 Questions?
 For any inquiries, feel free to reach out:
 
-GitHub: [Mahdi070707](https://github.com/Mahdi070707)
+GitHub: [Mahdi070707](https://github.com/Mahdi196)
 Email: mahdighaleb196@gmail.com
 
 ## 🎥 Live Demo
 https://drive.google.com/file/d/1kMZu5V4G5uKHc8RGxs-Sv_LDkPUmMO_D/view
+
+## DEPLOYMENT 
+https://devportfolio-104.onrender.com/
