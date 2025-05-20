@@ -1,4 +1,4 @@
-## Mahdi's Portfolio
+## Mock Portfolio
 
 ## 📌 Description
 A personal portfolio website showcasing my full-stack development projects, skills, and experience.
